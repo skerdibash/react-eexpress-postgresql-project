@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif|Pacifico|Source+Serif+Pro');
+
+* {
+	font-family: 'Source Serif Pro', serif;
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+}
+
+a:hover {
+    color: #696969;
+}
+
+.business, .businesses, .staff, .businesses-staff {
+    width: 100%;
+    text-align: center;
+}
+
+.center {
+	text-align: center;
+	margin-left:auto; 
+    margin-right:auto;
+}
+
+.back {
+    font-size: 1.8em;
+}
+
+td, th {
+	border: 1px solid #ddd;
+	padding: 8px;
+  }
+  
+  tr:nth-child(even){background-color: #f2f2f2;}
+  
+  tr:hover {background-color: #ddd;}
+  
+  th {
+	padding-top: 12px;
+	padding-bottom: 12px;
+	text-align: left;
+	background-color: rgb(98, 96, 102);
+	color: white;
+  }
