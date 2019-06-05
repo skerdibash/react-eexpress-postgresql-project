@@ -32,5 +32,13 @@ As a password use: password
 
 `psql -d project_db -f db/init.sql`
 
+## Runing the project
+
+Project runs on port 3000 and if using Vagrant on address 192.168.68.8
+
+`npm run build` 
+
+`npm run start`
+
 
 
